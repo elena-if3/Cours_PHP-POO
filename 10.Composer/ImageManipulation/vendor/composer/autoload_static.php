@@ -63,8 +63,8 @@ class ComposerStaticInit2278982b0365f362d6b003f1ec14d7f7
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'League\\MimeTypeDetection\\' => 
         array (
